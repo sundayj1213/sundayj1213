@@ -53,7 +53,7 @@ I am Sunday Johnson, a **Full Stack Developer**.
 
 
 ## 📈 Stats
-<!-- 
+
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sundayj1213&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
@@ -64,7 +64,7 @@ I am Sunday Johnson, a **Full Stack Developer**.
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sundayj1213&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sundayj1213&row=10&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true) -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=sundayj1213&row=10&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)
 
 ![Profile views](https://gpvc.arturio.dev/sundayj1213)
 
